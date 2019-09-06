@@ -1,0 +1,27 @@
+#AUDIO - AVOID INADVERTANTLY UPLOADING GIANT FILES TO GITHUB#
+*.mp3
+*.wav
+*.ogg
+#VIDEO - AVOID INADVERTANTLY UPLOADING GIANT FILES TO GITHUB#
+*.avi
+*.mov
+*.mp4
+*.mpg
+*.mpeg
+*.flv
+#ARCHIVE - AVOID INADVERTANTLY UPLOADING BINARY ARCHIVE FILES TO GITHUB##
+*.tar
+*.gz
+#CRUFT - AVOID UPLOADING BACKUP AND SWAP FILES TO GITHUB#
+*~
+*.bak
+*.tmp
+*.temp
+*.junk
+#FILES AND DIRECTORIES TO AVOID
+**/untracked*
+**/gitignored*
+**/tmp
+**/temp
+**/junk
+
